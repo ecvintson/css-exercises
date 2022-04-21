@@ -1,16 +1,18 @@
 body {
-  background: #eee;
+  background: grey;
   font-family: sans-serif;
 }
 
 .card {
   width: 400px;
-  background: #fff;
+  background: white;
   margin: 16px auto;
+  padding: 10px;
 }
 
 .title {
   background: #e3f4ff;
+  ;
 }
 
 .content {
